@@ -8,3 +8,4 @@ Dette repoet er mine notater til et lite kræsjkurs for å guide noen gjennom �
 - [ ] Åpne devtools i nettleseren og se på hva vi har gjort
 - [ ] Teste å endre tekst på en annen nettside 🥳
 - [ ] Lag en sjekkboks for å skru på dark mode
+- [ ] Skriv CSS for dark mode
