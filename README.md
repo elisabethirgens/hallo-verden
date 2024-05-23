@@ -4,3 +4,4 @@ Dette repoet er mine notater til et lite kræsjkurs for å guide noen gjennom �
 
 - [ ] Lage en `index.html` med litt tekst og markup
 - [ ] Sett opp sidestruktur med `html`, `head` og `body`
+- [ ] Lag en `styles.css` med noe styling og link i index
